@@ -1,11 +1,13 @@
 # UNICEF: Strategic Comparator Analysis (SCA)
 
-**Objectives**:
-1. ingest multi-INGO income data
-2. automate SCA file generation per IFL protocols
-3. build interactive Power BI reports for global/regional/market-level insights
-4. enable scenario modeling (e.g., PSFR funding cuts)
-5. benchmark costs/donor efficiency
+**Objective**: 
+
+Develop an end-to-end Business Intelligence (BI) pipeline that
+1. ingests multi-INGO income data
+2. automates SCA file generation per IFL protocols
+3. builds interactive Power BI reports for global/regional/market-level insights
+4. enables scenario modeling (e.g., PSFR funding cuts)
+5. benchmarks costs/donor efficiency
 
 **Data Sources**:
 
