@@ -8,6 +8,7 @@
 5. benchmark costs/donor efficiency
 
 **Data Sources**:
+
 I use Python to generate a realistic synthetic dataset with 100k records modeling 16 INGOs (UNICEF + peers like SaveTheChildren, Oxfam) across 55 markets, 2024-2025 income by channel (PSFR, Digital, Corporate), growth rates, costs
 
 ## Summary Findings
