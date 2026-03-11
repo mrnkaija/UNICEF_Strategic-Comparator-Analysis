@@ -1,0 +1,56 @@
+Market,Region,Base_Income,Crisis_Income,Avg_Growth,Avg_Cost,Impact_Pct
+Algeria,Africa,728110499.0,696060392.0,0.0,35.0,-4.4
+Angola,Africa,770430296.0,735998774.0,0.0,34.0,-4.5
+Argentina-BuenosAires,Latin America,814796555.0,782579173.0,0.0,35.0,-4.0
+Australia-Melbourne,Asia,692600720.0,664108937.0,0.0,35.0,-4.1
+Australia-Sydney,Asia,739961688.0,716136882.0,0.0,34.0,-3.2
+Belgium-Brussels,Europe,682199621.0,650425914.0,0.0,35.0,-4.7
+Brazil-Rio,Latin America,854383327.0,819526829.0,0.0,35.0,-4.1
+Brazil-SaoPaulo,Latin America,792231754.0,767969497.0,0.0,36.0,-3.1
+Canada-Montreal,North America,747514204.0,709154257.0,0.0,35.0,-5.1
+Canada-Toronto,North America,750675755.0,715387941.0,0.0,35.0,-4.7
+Canada-Vancouver,North America,970489809.0,933438324.0,0.0,35.0,-3.8
+Chile-Santiago,Latin America,761540833.0,730346224.0,0.0,34.0,-4.1
+China-Shanghai,Asia,769932703.0,739481055.0,0.0,35.0,-4.0
+Colombia-Bogota,Latin America,731358115.0,704071119.0,0.0,36.0,-3.7
+Cote dIvoire,Africa,739124499.0,704897833.0,0.0,35.0,-4.6
+Egypt,Africa,661407841.0,630952951.0,0.0,35.0,-4.6
+Ethiopia,Africa,737285021.0,706274870.0,0.0,36.0,-4.2
+France-Lyon,Europe,782921233.0,755241836.0,0.0,35.0,-3.5
+France-Paris,Europe,778132460.0,748089082.0,0.0,34.0,-3.9
+Germany-Berlin,Europe,714404503.0,690181595.0,0.0,35.0,-3.4
+Germany-Munich,Europe,793571957.0,757887773.0,0.0,35.0,-4.5
+Ghana,Africa,741273349.0,709371196.0,0.0,33.0,-4.3
+India-Delhi,Asia,742426796.0,714708397.0,0.0,34.0,-3.7
+India-Mumbai,Asia,772973071.0,740567198.0,0.0,35.0,-4.2
+Italy-Milan,Europe,722774025.0,696800848.0,0.0,36.0,-3.6
+Italy-Rome,Europe,774220449.0,741998817.0,0.0,34.0,-4.2
+Japan-Tokyo,Asia,781745008.0,752470573.0,0.0,35.0,-3.7
+Kenya,Africa,757870952.0,737632472.0,0.0,35.0,-2.7
+Malaysia-KualaLumpur,Asia,709256576.0,673294677.0,0.0,34.0,-5.1
+Mexico,North America,812553592.0,788554167.0,0.0,35.0,-3.0
+Morocco,Africa,748067076.0,719330751.0,0.0,34.0,-3.8
+Mozambique,Africa,668216525.0,642786380.0,0.0,35.0,-3.8
+Netherlands-Amsterdam,Europe,847645953.0,815957104.0,0.0,34.0,-3.7
+Nigeria,Africa,768412301.0,752460394.0,0.0,34.0,-2.1
+Norway-Oslo,Europe,732020389.0,700267251.0,0.0,35.0,-4.3
+Philippines-Manila,Asia,688184254.0,654360502.0,0.0,35.0,-4.9
+SaudiArabia-Riyadh,MENA,722243906.0,687994775.0,0.0,35.0,-4.7
+Senegal,Africa,741791099.0,720193590.0,0.0,34.0,-2.9
+Singapore,Asia,825366198.0,791282856.0,0.0,35.0,-4.1
+South Africa,Africa,663090711.0,636535173.0,0.0,33.0,-4.0
+SouthKorea-Seoul,Asia,803959280.0,770993154.0,0.0,35.0,-4.1
+Spain-Barcelona,Europe,753121526.0,722921759.0,0.0,35.0,-4.0
+Spain-Madrid,Europe,732999224.0,705572240.0,0.0,37.0,-3.7
+Sweden-Stockholm,Europe,671141279.0,644419800.0,0.0,35.0,-4.0
+Switzerland-Zurich,Europe,774580253.0,739190277.0,0.0,34.0,-4.6
+Tanzania,Africa,727275198.0,693694242.0,0.0,34.0,-4.6
+UAE-Dubai,MENA,846948423.0,817490794.0,0.0,36.0,-3.5
+UK-London,Europe,707265125.0,681633345.0,0.0,36.0,-3.6
+UK-Manchester,Europe,728226222.0,704984742.0,0.0,37.0,-3.2
+USA-California,North America,713305676.0,683156021.0,0.0,36.0,-4.2
+USA-Florida,North America,717965166.0,696205912.0,0.0,36.0,-3.0
+USA-NewYork,North America,751983206.0,720137843.0,0.0,35.0,-4.2
+USA-Texas,North America,656610288.0,637609581.0,0.0,33.0,-2.9
+Uganda,Africa,714984608.0,687716836.0,0.0,36.0,-3.8
+Zambia,Africa,772804099.0,738010281.0,0.0,35.0,-4.5
