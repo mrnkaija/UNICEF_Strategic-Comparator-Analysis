@@ -22,13 +22,13 @@ I use Python to generate a realistic synthetic 55-market dataset with 100k recor
 
 **Executive Summary:**
 This is a one-month end to end solution that processes 100K fundraising records across 55 markets and 7 NGOs generating Adroit-ready gap analysis and a 4-page Power BI executive dashboard. The synthetically generated data includes the following NGOs:
-      1.	UNICEF
-      2.	Save The Children
-      3.	Oxfam
-      4.	RedCross
-      5.	World Vision
-      6.	Plan International
-      7.	CARE
+1.	UNICEF
+2.	Save The Children
+3.	Oxfam
+4.	RedCross
+5.	World Vision
+6.	Plan International
+7.	CARE
 
 
 **Technical Architecture:**
